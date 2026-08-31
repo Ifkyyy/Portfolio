@@ -68,6 +68,7 @@ img {
   background: var(--background);
   border-bottom: 2px solid var(--border);
   padding: 1.5rem 0;
+  z-index: 99
 }
 
 .header-content {
